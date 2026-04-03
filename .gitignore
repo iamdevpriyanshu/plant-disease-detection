@@ -1,0 +1,16 @@
+# Python
+server/.venv/
+server/__pycache__/
+**/__pycache__/
+*.py[cod]
+server/.env
+
+# Android
+android/.gradle/
+android/**/build/
+android/local.properties
+*.iml
+.idea/
+
+# OS
+.DS_Store

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Plant Disease</string>
+    <string name="pick_image">Choose photo</string>
+    <string name="take_photo">Camera</string>
+    <string name="analyze">Analyze</string>
+    <string name="uploading">Uploading…</string>
+    <string name="section_disease">Name of the disease</string>
+    <string name="section_causes">Causes</string>
+    <string name="section_medicines">Medicines / treatment (informational)</string>
+    <string name="confidence">Confidence: %.0f%%</string>
+    <string name="compression_note">Prepared JPEG ≤100 KB for slow networks.</string>
+    <string name="error_generic">Something went wrong. Check connection and try again.</string>
+</resources>
